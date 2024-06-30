@@ -1,0 +1,1020 @@
+2024-04-10 11:26:21,882 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-10 11:26:24,270 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 4079mS.
+2024-04-10 11:26:24,273 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 11:26:24,281 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 11:37:51,970 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:38:02,874 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:38:15,149 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:38:40,382 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844740248 Bytes (1073741824)
+2024-04-10 11:38:41,349 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 870954648 Bytes (1073741824)
+2024-04-10 11:38:41,860 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 926006936 Bytes (1073741824)
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 11:38:42,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 11:38:42,304 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 11:38:42,305 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 11:38:42,528 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 11:38:42,754 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 11:38:42,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 11:38:42,951 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 11:38:43,031 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 11:38:43,038 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 11:38:43,136 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 11:38:43,140 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 11:38:43,201 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 11:38:43,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 11:38:43,299 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 11:38:43,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 11:38:43,375 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 11:38:43,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 11:38:43,652 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 11:38:43,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 11:38:43,714 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 11:38:43,717 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 11:38:43,776 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 11:38:43,790 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 11:38:43,870 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 11:38:43,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 11:38:43,939 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 11:38:43,943 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 11:38:43,989 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 11:38:44,008 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 11:38:44,225 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 11:38:44,230 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 11:38:44,308 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 11:38:44,330 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 11:38:44,473 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 11:38:44,477 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 11:38:44,555 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 11:38:44,585 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 11:38:44,691 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 11:38:44,728 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 11:38:44,729 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 11:38:44,745 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 11:38:44,840 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 11:38:44,850 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 11:38:44,954 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 11:38:45,463 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 168mS.
+2024-04-10 11:38:45,468 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 11:38:45,791 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 11:38:47,755 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2287mS.
+2024-04-10 11:38:47,756 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 11:38:47,764 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:46:59,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:46:59,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:26,955 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:26,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:27,061 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:27,062 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:30,170 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:30,171 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:30,172 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:47:33,769 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:48:22,322 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 663927720 Bytes (1073741824)
+2024-04-10 11:48:23,544 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 689619880 Bytes (1073741824)
+2024-04-10 11:48:24,041 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 724222888 Bytes (1073741824)
+2024-04-10 11:48:24,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 11:48:24,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 11:48:24,240 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 11:48:24,241 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 11:48:24,243 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 11:48:24,399 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 11:48:24,470 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 11:48:24,539 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 11:48:24,649 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 11:48:24,694 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 11:48:24,699 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 11:48:24,786 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 11:48:24,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 11:48:24,838 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 11:48:24,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 11:48:24,909 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 11:48:24,912 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 11:48:24,972 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 11:48:25,204 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 11:48:25,294 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 11:48:25,299 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 11:48:25,382 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 11:48:25,387 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 11:48:25,459 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 11:48:25,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 11:48:25,593 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 11:48:25,598 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 11:48:25,677 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 11:48:25,682 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 11:48:25,746 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 11:48:25,766 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 11:48:25,918 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 11:48:25,922 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 11:48:25,975 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 11:48:25,994 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 11:48:26,094 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 11:48:26,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 11:48:26,153 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 11:48:26,170 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 11:48:26,259 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 11:48:26,281 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 11:48:26,281 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 11:48:26,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 11:48:26,368 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 11:48:26,378 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 11:48:26,480 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 11:48:27,142 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 214mS.
+2024-04-10 11:48:27,147 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 11:48:27,439 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 11:48:29,129 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1982mS.
+2024-04-10 11:48:29,130 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 11:48:29,136 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:01,484 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:01,485 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:01,597 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:01,598 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:07,506 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:07,507 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:07,508 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:07,508 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:07,508 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:07,600 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:07,601 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:07,601 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:35,852 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:49:37,469 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:49:42,523 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:49:42,593 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:49:47,421 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 880950184 Bytes (1073741824)
+2024-04-10 11:49:48,312 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 906116008 Bytes (1073741824)
+2024-04-10 11:49:48,750 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 696163280 Bytes (1073741824)
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 11:49:49,008 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 11:49:49,009 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 11:49:49,010 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 11:49:49,221 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 11:49:49,309 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 11:49:49,352 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 11:49:49,442 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 11:49:49,536 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 11:49:49,544 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 11:49:49,616 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 11:49:49,619 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 11:49:49,665 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 11:49:49,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 11:49:49,726 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 11:49:49,729 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 11:49:49,790 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 11:49:49,962 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 11:49:50,023 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 11:49:50,027 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 11:49:50,073 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 11:49:50,077 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 11:49:50,127 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 11:49:50,137 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 11:49:50,208 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 11:49:50,212 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 11:49:50,259 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 11:49:50,263 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 11:49:50,308 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 11:49:50,326 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 11:49:50,401 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 11:49:50,404 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 11:49:50,451 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 11:49:50,466 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 11:49:50,547 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 11:49:50,549 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 11:49:50,597 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 11:49:50,611 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 11:49:50,691 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 11:49:50,724 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 11:49:50,724 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 11:49:50,741 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 11:49:50,835 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 11:49:50,848 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 11:49:50,972 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 11:49:51,570 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 160mS.
+2024-04-10 11:49:51,575 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 11:49:51,772 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 11:49:53,321 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1746mS.
+2024-04-10 11:49:53,322 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 11:49:53,329 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 11:53:03,074 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 11:53:05,609 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 693934720 Bytes (1073741824)
+2024-04-10 11:53:07,536 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 718051968 Bytes (1073741824)
+2024-04-10 11:53:07,956 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 753181312 Bytes (1073741824)
+2024-04-10 11:53:08,155 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 11:53:08,155 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 11:53:08,156 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 11:53:08,157 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 11:53:08,268 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 11:53:08,329 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 11:53:08,388 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 11:53:08,456 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 11:53:08,523 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 11:53:08,528 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 11:53:08,591 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 11:53:08,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 11:53:08,635 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 11:53:08,638 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 11:53:08,701 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 11:53:08,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 11:53:08,760 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 11:53:08,978 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 11:53:09,061 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 11:53:09,067 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 11:53:09,133 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 11:53:09,138 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 11:53:09,233 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 11:53:09,245 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 11:53:09,358 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 11:53:09,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 11:53:09,423 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 11:53:09,428 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 11:53:09,485 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 11:53:09,503 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 11:53:09,585 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 11:53:09,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 11:53:09,640 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 11:53:09,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 11:53:09,741 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 11:53:09,744 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 11:53:09,797 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 11:53:09,810 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 11:53:09,888 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 11:53:09,908 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 11:53:09,909 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 11:53:09,921 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 11:53:09,981 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 11:53:09,992 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 11:53:10,097 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 11:53:10,782 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 200mS.
+2024-04-10 11:53:10,787 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 11:53:11,072 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 11:53:12,683 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1896mS.
+2024-04-10 11:53:12,684 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 11:53:12,692 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 11:56:29,686 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 11:56:29,687 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 12:01:42,994 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:01:49,613 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:02:48,719 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 735936832 Bytes (1073741824)
+2024-04-10 12:02:49,646 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 761624896 Bytes (1073741824)
+2024-04-10 12:02:50,272 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832405824 Bytes (1073741824)
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:02:50,557 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:02:50,558 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:02:50,559 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:02:50,751 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:02:50,853 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:02:50,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:02:51,005 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:02:51,111 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:02:51,119 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:02:51,205 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:02:51,208 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:02:51,253 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:02:51,256 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:02:51,335 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:02:51,338 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:02:51,406 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:02:51,636 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:02:51,714 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:02:51,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:02:51,776 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:02:51,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:02:51,842 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:02:51,855 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:02:51,940 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:02:51,950 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:02:52,001 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:02:52,004 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:02:52,057 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:02:52,074 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:02:52,245 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:02:52,250 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:02:52,332 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:02:52,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:02:52,488 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:02:52,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:02:52,568 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:02:52,587 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:02:52,723 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:02:52,754 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:02:52,754 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:02:52,771 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:02:52,871 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:02:52,883 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:02:52,990 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:02:53,649 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 223mS.
+2024-04-10 12:02:53,655 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:02:53,947 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:02:55,561 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1905mS.
+2024-04-10 12:02:55,561 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:02:55,570 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:05:34,403 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:05:40,100 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:05:52,448 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 694992112 Bytes (1073741824)
+2024-04-10 12:05:53,422 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 719109360 Bytes (1073741824)
+2024-04-10 12:05:53,949 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 698348544 Bytes (1073741824)
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:05:54,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:05:54,338 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:05:54,338 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:05:54,339 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:05:54,541 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:05:54,639 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:05:54,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:05:54,786 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:05:54,860 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:05:54,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:05:54,957 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:05:54,960 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:05:55,052 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:05:55,055 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:05:55,132 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:05:55,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:05:55,249 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:05:55,390 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:05:55,450 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:05:55,454 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:05:55,515 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:05:55,519 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:05:55,577 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:05:55,588 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:05:55,665 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:05:55,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:05:55,720 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:05:55,724 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:05:55,774 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:05:55,793 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:05:55,872 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:05:55,877 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:05:55,927 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:05:55,944 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:05:56,035 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:05:56,039 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:05:56,090 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:05:56,104 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:05:56,210 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:05:56,237 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:05:56,237 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:05:56,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:05:56,331 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:05:56,346 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:05:56,481 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:05:57,299 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 269mS.
+2024-04-10 12:05:57,308 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:05:57,720 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:05:59,199 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1891mS.
+2024-04-10 12:05:59,200 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 12:05:59,208 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:10:22,895 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 12:10:22,896 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-04-10 12:11:20,571 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:13:07,699 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 838428800 Bytes (1073741824)
+2024-04-10 12:13:08,616 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 863594624 Bytes (1073741824)
+2024-04-10 12:13:09,019 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 898330904 Bytes (1073741824)
+2024-04-10 12:13:09,281 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:13:09,282 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:13:09,283 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:13:09,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:13:09,657 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:13:09,696 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:13:09,831 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:13:09,916 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:13:09,923 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:13:10,018 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:13:10,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:13:10,074 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:13:10,077 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:13:10,154 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:13:10,156 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:13:10,229 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:13:10,392 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:13:10,479 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:13:10,483 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:13:10,531 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:13:10,535 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:13:10,590 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:13:10,601 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:13:10,673 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:13:10,678 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:13:10,726 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:13:10,729 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:13:10,777 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:13:10,795 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:13:10,939 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:13:10,945 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:13:11,019 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:13:11,040 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:13:11,170 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:13:11,175 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:13:11,254 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:13:11,271 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:13:11,405 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:13:11,437 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:13:11,438 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:13:11,456 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:13:11,567 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:13:11,582 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:13:11,684 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:13:12,381 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 223mS.
+2024-04-10 12:13:12,387 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:13:12,738 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:13:14,250 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1863mS.
+2024-04-10 12:13:14,251 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 12:13:14,257 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:17:56,505 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:18:19,601 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:20:15,044 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:20:17,030 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 810017904 Bytes (1073741824)
+2024-04-10 12:20:18,153 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 834657392 Bytes (1073741824)
+2024-04-10 12:20:18,564 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 905438320 Bytes (1073741824)
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:20:18,851 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:20:18,852 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:20:18,853 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:20:19,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:20:19,136 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:20:19,201 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:20:19,307 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:20:19,359 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:20:19,367 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:20:19,443 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:20:19,446 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:20:19,487 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:20:19,489 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:20:19,581 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:20:19,583 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:20:19,653 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:20:19,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:20:19,851 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:20:19,855 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:20:19,924 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:20:19,929 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:20:19,997 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:20:20,009 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:20:20,098 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:20:20,104 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:20:20,162 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:20:20,167 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:20:20,252 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:20:20,279 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:20:20,521 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:20:20,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:20:20,593 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:20:20,611 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:20:20,699 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:20:20,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:20:20,763 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:20:20,787 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:20:20,907 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:20:20,932 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:20:20,932 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:20:20,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:20:21,032 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:20:21,051 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:20:21,187 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:20:21,816 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 195mS.
+2024-04-10 12:20:21,822 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:20:22,175 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:20:23,654 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1833mS.
+2024-04-10 12:20:23,655 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:20:23,662 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:40:12,587 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:40:13,746 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 853717992 Bytes (1073741824)
+2024-04-10 12:40:15,547 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 884293632 Bytes (1073741824)
+2024-04-10 12:40:15,980 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 724958736 Bytes (1073741824)
+2024-04-10 12:40:16,230 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:40:16,230 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:40:16,230 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:40:16,231 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:40:16,232 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:40:16,442 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:40:16,551 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:40:16,605 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:40:16,731 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:40:16,791 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:40:16,799 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:40:16,874 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:40:16,877 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:40:16,928 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:40:16,931 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:40:16,998 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:40:17,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:40:17,062 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:40:17,234 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:40:17,293 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:40:17,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:40:17,343 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:40:17,347 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:40:17,397 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:40:17,407 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:40:17,476 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:40:17,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:40:17,530 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:40:17,533 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:40:17,583 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:40:17,600 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:40:17,768 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:40:17,774 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:40:17,848 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:40:17,868 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:40:17,989 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:40:17,992 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:40:18,056 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:40:18,074 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:40:18,217 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:40:18,242 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:40:18,243 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:40:18,259 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:40:18,358 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:40:18,368 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:40:18,462 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:40:19,146 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 213mS.
+2024-04-10 12:40:19,151 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:40:19,411 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:40:20,801 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1650mS.
+2024-04-10 12:40:20,802 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 12:40:20,810 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:41:50,887 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:41:53,913 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 829190000 Bytes (1073741824)
+2024-04-10 12:41:55,175 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 854192080 Bytes (1073741824)
+2024-04-10 12:41:55,610 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 744266376 Bytes (1073741824)
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:41:55,854 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:41:55,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:41:55,856 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:41:56,052 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:41:56,160 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:41:56,198 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:41:56,332 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:41:56,399 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:41:56,406 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:41:56,480 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:41:56,482 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:41:56,527 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:41:56,530 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:41:56,592 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:41:56,595 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:41:56,652 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:41:56,837 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:41:56,902 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:41:56,906 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:41:56,950 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:41:56,954 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:41:57,010 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:41:57,019 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:41:57,089 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:41:57,092 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:41:57,137 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:41:57,141 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:41:57,186 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:41:57,217 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:41:57,314 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:41:57,320 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:41:57,404 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:41:57,426 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:41:57,539 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:41:57,543 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:41:57,612 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:41:57,638 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:41:57,753 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:41:57,782 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:41:57,783 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:41:57,801 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:41:57,869 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:41:57,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:41:57,971 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:41:58,594 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 193mS.
+2024-04-10 12:41:58,601 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:41:58,960 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:42:00,333 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1732mS.
+2024-04-10 12:42:00,334 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:42:00,351 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:42:27,704 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:42:30,068 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 847369480 Bytes (1073741824)
+2024-04-10 12:42:31,962 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 872003144 Bytes (1073741824)
+2024-04-10 12:42:32,410 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 755135592 Bytes (1073741824)
+2024-04-10 12:42:32,660 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:42:32,661 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:42:32,662 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:42:32,851 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:42:32,949 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:42:32,997 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:42:33,075 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:42:33,179 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:42:33,185 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:42:33,252 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:42:33,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:42:33,295 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:42:33,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:42:33,356 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:42:33,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:42:33,424 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:42:33,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:42:33,666 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:42:33,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:42:33,716 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:42:33,720 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:42:33,771 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:42:33,781 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:42:33,850 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:42:33,854 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:42:33,900 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:42:33,904 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:42:33,949 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:42:33,965 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:42:34,040 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:42:34,044 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:42:34,089 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:42:34,104 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:42:34,184 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:42:34,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:42:34,237 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:42:34,250 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:42:34,326 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:42:34,348 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:42:34,349 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:42:34,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:42:34,420 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:42:34,430 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:42:34,538 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:42:35,164 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 186mS.
+2024-04-10 12:42:35,168 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:42:35,557 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:42:36,896 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1728mS.
+2024-04-10 12:42:36,896 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:42:36,903 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 12:42:55,203 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-10 12:42:57,282 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 744474248 Bytes (1073741824)
+2024-04-10 12:42:59,356 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 779603592 Bytes (1073741824)
+2024-04-10 12:42:59,780 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 817874568 Bytes (1073741824)
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CAN
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-10 12:42:59,976 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-10 12:42:59,977 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-10 12:43:00,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp_save
+2024-04-10 12:43:00,240 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\license.tmp
+2024-04-10 12:43:00,275 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp_save
+2024-04-10 12:43:00,365 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\gpio.tmp
+2024-04-10 12:43:00,453 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-04-10 12:43:00,460 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-04-10 12:43:00,567 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-04-10 12:43:00,570 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-04-10 12:43:00,642 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-04-10 12:43:00,645 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-04-10 12:43:00,741 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-04-10 12:43:00,745 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-04-10 12:43:00,808 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-04-10 12:43:00,962 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c_save
+2024-04-10 12:43:01,033 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.c
+2024-04-10 12:43:01,037 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h_save
+2024-04-10 12:43:01,088 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\App\usb_host.h
+2024-04-10 12:43:01,092 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h_save
+2024-04-10 12:43:01,149 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.h
+2024-04-10 12:43:01,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c_save
+2024-04-10 12:43:01,228 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_conf.c
+2024-04-10 12:43:01,232 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c_save
+2024-04-10 12:43:01,278 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.c
+2024-04-10 12:43:01,282 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h_save
+2024-04-10 12:43:01,329 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\USB_HOST\Target\usbh_platform.h
+2024-04-10 12:43:01,347 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c_save
+2024-04-10 12:43:01,423 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_it.c
+2024-04-10 12:43:01,427 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h_save
+2024-04-10 12:43:01,484 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_it.h
+2024-04-10 12:43:01,502 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-10 12:43:01,592 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\stm32f4xx_hal_msp.c
+2024-04-10 12:43:01,595 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp_save
+2024-04-10 12:43:01,643 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\MXTmpFiles\system.tmp
+2024-04-10 12:43:01,656 [INFO] CodeEngine:311 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-10 12:43:01,732 [INFO] CodeEngine:335 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-10 12:43:01,759 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-04-10 12:43:01,760 [WARN] CodeGenerator:3939 - IP not found : null
+2024-04-10 12:43:01,777 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h_save
+2024-04-10 12:43:01,884 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Inc\main.h
+2024-04-10 12:43:01,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c_save
+2024-04-10 12:43:02,030 [INFO] CodeEngine:279 - Generated code: C:\MCU2\My_workspace\CAN_Normal_Mode\Core\Src\main.c
+2024-04-10 12:43:02,635 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 150mS.
+2024-04-10 12:43:02,639 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-10 12:43:02,913 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-04-10 12:43:04,643 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2004mS.
+2024-04-10 12:43:04,644 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-10 12:43:04,651 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-10 14:21:27,898 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
